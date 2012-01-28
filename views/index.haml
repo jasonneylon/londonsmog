@@ -6,7 +6,14 @@
     %a(href="http://www.londonair.org.uk/LondonAir/Default.aspx") the London Air project
     and Google street view
     to help you see the pollution that is present but invisible.
-    #map_canvas()
+
+    %h2=site.attributes["sitename"]
+
+    #container{:style => "position: relative; width: 500px; height: 300px;"}
+      #pano{:name => "pano", :style => "width: 100%; height: 100%;z:index: 0"}
+      %iframe{:frameborder => "0", :src => "javascript:false;", :style => "position: absolute;right: 185px; top: 5px; width: 150px; height: 55px; z-index: 1"}
+      %div{:style => "position: absolute; right: 185px; top: 5px; width: 150px;height: 55px; z-index: 2;"}
+        %img{:src => "http://www.google.com/intl/en_uk/websiteoptimizer/images/logo_sm.gif"}/
 
 %section.three.columns.omega
   %aside.stats
@@ -18,6 +25,13 @@
 
 - content_for :javascript do
   :javascript
+    function initialize() {
+      var myPano = new GStreetviewPanorama(document.getElementById("pano"));
+      fenwayPark = new GLatLng(#{site.attributes["latitude"]},#{site.attributes["longitude"]});
+      myPOV = {yaw:0,pitch:0};
+      myPano.setLocationAndPOV(fenwayPark, myPOV);
+    }
+
     /* 
     function initialize() {
       var draggable = true;
