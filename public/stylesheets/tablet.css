@@ -1,0 +1,12 @@
+body
+{
+/*  background: url("../images/back.jpg") no-repeat;
+  background-color: #161616;
+*/}
+
+
+#map_canvas
+{
+  width:98%;
+  height:500px;
+}

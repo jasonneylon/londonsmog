@@ -1,0 +1,44 @@
+
+
+%article.thirteen.columns.alpha
+  %section
+    %h3 The route
+    #map_canvas()
+
+%section.three.columns.omega
+  %aside.stats
+    %table
+      %tr 
+        %th(scope="row") Maybe the scale here?
+        %td
+
+
+- content_for :javascript do
+  :javascript
+    /* 
+    function initialize() {
+      var draggable = true;
+      if(navigator.userAgent.match(/iPhone/i)){
+        draggable = false;
+      }
+      var myOptions = {
+        scrollwheel: false,
+        draggable: draggable,
+        zoom: 13,
+        mapTypeId: google.maps.MapTypeId.HYBRID
+      };
+      var map = new google.maps.Map(document.getElementById("map_canvas"),
+          myOptions);
+          var geoLayer = new google.maps.KmlLayer('http://saxon-switzerland.heroku.com/geo-data/test.kmz');
+          geoLayer.setMap(map);
+    }
+  
+    google.maps.event.addDomListener(window, 'load', initialize);
+  
+    (function(window, $, PhotoSwipe){
+      $(document).ready(function(){
+        var options = {};
+        $("#Gallery a").photoSwipe(options);
+      });
+    }(window, window.jQuery, window.Code.PhotoSwipe));
+    */

@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+libs =  ' -r irb/completion'
+libs << ' -r ./server'
+exec "irb #{libs}"

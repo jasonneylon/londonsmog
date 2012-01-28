@@ -1,0 +1,186 @@
+/*
+* Skeleton V1.1
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 8/17/2011
+*/
+
+/* Table of Content
+==================================================
+	#Site Styles
+	#Page Styles
+	#Media Queries
+	#Font-Face */
+
+
+/* #Site Styles
+================================================== */
+
+
+nav, article
+{
+  /*background-color: #E4EAF2;*/
+}
+
+aside.stats 
+{
+  /*background-color: #80BDF2;*/
+  /*border: 2px solid #80B2F2;*/
+}
+
+
+aside.profile 
+{
+  /*background-color: #E0F20F;*/
+}
+
+.stats table tr th
+{
+ text-align: left;
+ font-weight: bold;
+}
+
+
+header
+{
+  overflow: hidden;
+  margin-top: 12px;
+}
+
+#main
+{
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+}
+
+h1, h2
+{
+  font-family: garmond;
+  /*color: #495939;*/
+}
+
+h3 {
+  /*color: #62733D;*/
+}
+
+h1
+{
+  padding: 4px;
+  font-size: 56px;
+}
+
+h1 img
+{
+  float: left;
+  vertical-align: middle;
+  padding-right: 12px;
+  padding-bottom: 12px;
+}
+
+h1 span
+{
+  display: block;
+  padding-top: 20px;
+  padding-left: 10px;
+  vertical-align: middle;
+}
+nav, aside {
+  padding: 12px;
+  border-radius: 12px;
+  -moz-border-radius: 12px;
+  -webkit-border-radius: 12px;
+  margin-bottom: 12px;
+}
+
+.stats tr td
+{
+  padding-right: 10px;
+}
+
+/*a.current, a:visited.current { color: #495939; }
+a, a:visited { color: #62733d; }
+*/
+article section {
+  padding: 24px;
+}
+
+nav ul
+{
+}
+
+body 
+{
+  /*color: #2C3540;*/
+}
+
+.caption { margin: 5px; padding: 5px; border: solid 1px #E5E5FF; background: #E5F2FF; font-size:90%; color: black }
+img.alignright { padding: 4px; margin: 0 0 2px 7px; display: inline; }
+img.alignleft { padding: 4px; margin: 0 7px 2px 0; display: inline; }
+.alignright { float: right; }
+.alignleft { float: left; }
+
+/* #Page Styles
+================================================== */
+
+/* #Media Queries
+================================================== */
+
+
+	/* Smaller than standard 960 (devices and browsers) */
+	@media only screen and (max-width: 959px) {
+
+	}
+
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media only screen and (min-width: 768px) and (max-width: 959px) {
+	}
+
+	/* All Mobile Sizes (devices and browser) */
+	@media only screen and (max-width: 767px) {
+	  aside.profile
+    {
+      display:none;
+    }
+    h1 { font-size: 24px; line-height: 1.2em;}
+    h1 span { padding-top: 6px;}
+	}
+
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+	@media only screen and (min-width: 480px) and (max-width: 767px)  {
+	  #map_canvas
+    {
+      width:98%;
+      height:250px;
+    }
+	}
+
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+	@media only screen and (max-width: 479px) {
+	  #map_canvas
+    {
+      width:98% ;
+      height:350px;
+    }
+	}
+
+
+
+/* #Font-Face
+================================================== */
+/* 	This is the proper syntax for an @font-face file
+		Just create a "fonts" folder at the root,
+		copy your FontName into code below and remove
+		comment brackets */
+
+/*	@font-face {
+	    font-family: 'FontName';
+	    src: url('../fonts/FontName.eot');
+	    src: url('../fonts/FontName.eot?iefix') format('eot'),
+	         url('../fonts/FontName.woff') format('woff'),
+	         url('../fonts/FontName.ttf') format('truetype'),
+	         url('../fonts/FontName.svg#webfontZam02nTh') format('svg');
+	    font-weight: normal;
+	    font-style: normal; }
+*/
