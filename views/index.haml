@@ -1,4 +1,21 @@
-
+:css
+  .overlay 
+  {
+    background: #4C95AF;
+    background:
+        -moz-linear-gradient(
+            center bottom,
+            rgba(76,149,175,0.1) 5%,
+            rgba(183,185,52,0.9) 95%
+        );
+    background: -webkit-gradient(
+        linear,
+        left bottom,
+        left top,
+        color-stop(0.05, rgba(76,149,175,0.1)),
+        color-stop(0.95, rgba(183,185,52,0.9))
+    );
+  }
 
 %article.thirteen.columns.alpha
   %section
@@ -11,9 +28,9 @@
 
     #container{:style => "position: relative; width: 500px; height: 300px;"}
       #pano{:name => "pano", :style => "width: 100%; height: 100%;z:index: 0"}
-      %iframe{:frameborder => "0", :src => "javascript:false;", :style => "position: absolute;right: 185px; top: 5px; width: 150px; height: 55px; z-index: 1"}
+      %iframe.overlay{:frameborder => "0", :src => "javascript:false;", :style => "position: absolute; right: 185px; top: 5px; width: 150px; height: 55px; z-index: 1;"}
       %div{:style => "position: absolute; right: 185px; top: 5px; width: 150px;height: 55px; z-index: 2;"}
-        %img{:src => "http://www.google.com/intl/en_uk/websiteoptimizer/images/logo_sm.gif"}/
+        / %img{:src => "http://www.google.com/intl/en_uk/websiteoptimizer/images/logo_sm.gif"}/
 
 %section.three.columns.omega
   %aside.stats
