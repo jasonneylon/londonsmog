@@ -1,0 +1,10 @@
+<notifications>
+<region GroupName = "LAQNiPhone" ttl="59">
+<site sitename = "Kensington and Chelsea - Knightsbridge" sitecode = "KC3">
+<species speciesname = "Nitrogen Dioxide" speciescode = "NO2" prevband = "Low" prevaqindex = "3" newband = "Moderate" newaqindex = "4" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" ttl = "59" />
+	</site>
+<site sitename = "Wandsworth - Putney High Street" sitecode = "WA7">
+<species speciesname = "Nitrogen Dioxide" speciescode = "NO2" prevband = "Low" prevaqindex = "3" newband = "Moderate" newaqindex = "4" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" ttl = "59" />
+</site>
+</region>
+</notifications>

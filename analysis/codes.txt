@@ -1,0 +1,466 @@
+A30 A3 - AURN
+AR1 Chichester - Lodsworth
+AR2 Wealden - Isfield
+AS1 Bath
+BA1 Basildon
+BB1 Broxbourne Roadside
+BE0 Belfast - Carbon
+BE1 Belfast - CPC
+BE8 Belfast - Nitrate
+BE9 Belfast - Partisol SO4
+BF1 Bedford Rural
+BF3 Bedford - Kempston
+BF4 Bedford - Prebend Street
+BG1 Barking and Dagenham - Rush Green
+BG2 Barking and Dagenham - Scrattons Farm
+BG3 Barking and Dagenham - North Street
+BG5 Waterside Close
+BG6 Becontree Avenue
+BG7 Lindsey Road
+BH1 Brighton Roadside
+BH2 Brighton and Hove - Hove Town Hall
+BH3 Brighton and Hove - Foredown Tower
+BH5 Brighton Mobile (Preston Fire Station)
+BH6 Brighton Mobile (Lewes Road)
+BH7 Brighton Mobile (Gloucester Road)
+BI1 Birmingham - CPC
+BL0 Camden - Bloomsbury
+BL1 Bloomsbury - SMPS
+BM1 Ballymena - Ballykeel
+BM2 Ballymena - North Road
+BN1 Barnet - Tally Ho Corner
+BN2 Barnet - Finchley
+BN3 Barnet 3 - Strawberry Vale
+BO1 Ballymoney 1
+BO2 Bexley - Bexley High Street
+BO3 Bexley - Bourne Road
+BP0 Bridge Place - AURN
+BT1 Brent - Kingsbury
+BT2 Brent 2 - Ikea
+BT3 Brent 3 - Harlesden
+BT4 Brent - Ikea
+BT5 Brent - Neasden Lane
+BT6 Brent - John Keble Primary School
+BT7 Brent - St Marys Primary School
+BTE Environment Agency Neasden Lane
+BW1 Brentwood - Brentwood Town Hall
+BX0 Bexley - Belvedere FDMS
+BX1 Bexley - Slade Green
+BX2 Bexley - Belvedere
+BX3 Bexley - Thamesmead
+BX4 Bexley - Erith
+BX5 Bexley 5 - Bedonwell
+BX6 Bexley - Thames Road North FDMS
+BX7 Bexley - Thames Road North
+BX8 Bexley - Thames Road South
+BX9 Bexley - Slade Green FDMS
+BY1 Bromley Rent office
+BY4 Bromley 4 - Town Centre Tweedy Rd
+BY5 Bromley - Biggin Hill
+BY7 Bromley - Harwood Avenue
+BY8 Bromley 8 - TECO NOX
+CA1 Crawley Background
+CA2 Crawley - Gatwick Airport
+CD1 Camden - Swiss Cottage
+CD3 Camden - Shaftesbury Avenue
+CD4 Camden - St Martins College (NOX 1)
+CD5 Camden - St Martins College (NOX 2)
+CD6 Camley Street
+CD7 Camden 1 Partisol
+CF1 Cardiff
+CI1 Chichester - A27 Chichester Bypass
+CI4 Chichester - Orchard Street
+CK1 Cookstown
+CO1 CONCAWE - Hyde Park
+CP1 Castle Point - Canvey Island
+CR2 Croydon - Purley Way
+CR3 Croydon - Thornton Heath
+CR4 Croydon - George Street
+CR5 Croydon - Norbury
+CR6 Croydon 6 - Euston Road
+CT1 City of London - Senator House
+CT2 City of London 2 - Farringdon Street
+CT3 City of London - Sir John Cass School
+CT4 City of London 4 - Beech Street
+CT5 City of London Black Smoke (LONDON CITY 16)
+CT6 City of London - Walbrook Wharf
+CT7 City of London 7 - NOx paint study site
+CT8 City of London - Upper Thames Street
+CY1 Crystal Palace - Crystal Palace Parade
+DC1 Dacorum Background (Hemel H)
+DC2 Dacorum Background (re-opened)
+DC3 High Street Northchurch
+DE1 Derry City - Brandywell
+DE2 Derry City - Dales Corner
+DM1 Dunmurry
+EA0 Ealing - Acton Town Hall FDMS
+EA1 Ealing - Ealing Town Hall
+EA2 Ealing - Acton Town Hall
+EA4 Ealing Mobile - Hamilton Road
+EA5 Ealing Mobile - Southall
+EA6 Ealing - Hanger Lane Gyratory
+EA7 Ealing - Southall
+EA8 Ealing - Horn Lane
+EA9 Court Way, Acton
+EB1 Eastbourne - Devonshire Park
+EB3 Eastbourne - Holly Place
+EC1 Entec - Blackwall Lane
+ED0 Edinburgh St Leonard's
+EG2 Ealing Black Smoke (EALING 7)
+EH1 E. Herts Rural (Throcking)
+EH2 East Herts - Throcking
+EH3 East Herts - Sawbridgeworth
+EH4 East Herts - Ware
+EH5 East Herts - Bishops Stortford
+EI0 Ealing 10
+EL1 Elmbridge - Bell Farm Hersham
+EL2 Elmbridge - Esher High Street
+EN1 Enfield 1 - Bushhill Park
+EN2 Enfield 2 - Church Street
+EN3 Enfield 3 - Salisbury School Ponders End
+EN4 Enfield - Derby Road
+EN5 Enfield - Bowes Primary School
+EN6 Enfield Black Smoke (ENFIELD 14)
+FB1 Rushmoor - Medway Drive
+GB0 Greenwich and Bexley - Falconwood FDMS
+GB6 Greenwich and Bexley - Falconwood
+GL1 Glasgow Centre
+GL4 Glasgow Centre
+GN0 Greenwich - A206 Burrage Grove
+GN2 Greenwich - Millennium Village
+GN3 Greenwich - Plumstead High Street
+GN4 Greenwich 9
+GR2 Greenwich Black Smoke (GREENWICH 9)
+GR3 Woolwich
+GR4 Greenwich - Eltham
+GR5 Greenwich - Trafalgar Road
+GR7 Greenwich - Blackheath
+GR8 Greenwich - Woolwich Flyover
+GR9 Greenwich - Westhorne Avenue
+GW1 Gatwick 1
+HA0 Harwell - Carbon
+HA1 Harwell Rural AURN
+HA4 Harwell - SMPS
+HA7 Harwell Rural AURN
+HA8 Harwell - Nitrate
+HA9 Harwell - Partisol SO4
+HF1 A3 - AURN
+HF2 Hammersmith & Fulham 2 - Brook Green
+HF3 Hammersmith & Fulham 3 - Scrubs Lane
+HG1 Haringey - Haringey Town Hall
+HG2 Haringey - Priory Park
+HG3 Haringey 3 - Bounds Green
+HI0 Hillingdon - Sipson Road
+HI1 Hillingdon - South Ruislip
+HI2 Hillingdon - Hillingdon Hospital
+HI3 Hillingdon - Oxford Avenue
+HK4 Hackney - Clapton
+HK6 Hackney - Old Street
+HL1 Halifax
+HM1 A3 - AURN
+HM4 Hertsmere - Borehamwood
+HO1 Horsham Background
+HO2 Horsham - Park Way
+HO4 Horsham - Storrington
+HR1 Harrow - Stanmore
+HR2 Harrow - Pinner Road
+HS1 Hounslow 1 - Brentford
+HS2 Hounslow - Cranford
+HS3 Hounslow 3 - Brentford
+HS4 Hounslow - Chiswick High Road
+HS5 Hounslow - Brentford
+HS6 Hounslow - Heston Road
+HS7 Hounslow - Hatton Cross
+HS9 Hounslow - Feltham
+HT1 Hastings - Bulverhythe
+HT2 Hastings - Fresh Fields
+HV1 Havering - Rainham
+HV2 Havering 2 - Harold Hill
+HV3 Havering - Romford
+HX0 Birmingham Tyburn
+HX9 Birmingham Tyburn - CPC
+IC6 City of London - Walbrook Wharf Indoor
+IG4 Greenwich - Eltham Ecology Centre Indoor
+IS1 Islington 1 - Upper Street
+IS2 Islington - Holloway Road
+IS3 Islington Black Smoke (ISLINGTON 9)
+IS4 Islington 4 - Foxham Gardens
+IS5 Islington 5 - Duncan Terrace
+IS6 Islington - Arsenal
+IT2 Tower Hamlets 2 indoor CO
+KB1 South Kirkby
+KC0 North Kensington - Carbon
+KC1 Kensington and Chelsea - North Ken
+KC2 Kensington and Chelsea - Cromwell Road
+KC3 Kensington and Chelsea - Knightsbridge
+KC4 Kensington and Chelsea - Kings Road
+KC5 Kensington and Chelsea - Earls Court Rd
+KC7 Kensington and Chelsea - North Ken FDMS
+KC8 North Kensington - Nitrate
+KC9 North Kensington - Partisol SO4
+KT1 Kingston 1 - Chessington
+KT2 Kingston 2 - Town Centre
+KX1 Kings Cross 1 - Bingfield Street
+KX2 Kings Cross 2 - Copenhagen Street
+KX3 Kings Cross 3 - Bingfield Park
+KX4 Kings Cross 4 - Coopers Lane
+LA1 Luton Airport
+LB0 Lambeth 5 spare
+LB1 Lambeth - Christchurch Road
+LB2 Lambeth 2 - Vauxhall Cross
+LB3 Lambeth - Loughborough Junct
+LB4 Lambeth - Brixton Road
+LB5 Lambeth - Bondway Interchange
+LB6 Lambeth - Streatham Green
+LBG London Mean Background
+LH0 Hillingdon - Harlington
+LH1 Heathrow Airport - UKMO
+LH2 Heathrow Airport
+LL1 Lullington Heath Rural AURN
+LN1 Luton - Challney Community College
+LRS London Mean Road Side
+LS1 Lewes - Telscombe Cliffs
+LS2 Lewes - Commercial Square
+LW1 Lewisham - Catford
+LW2 Lewisham - New Cross
+LW3 Lewisham - Mercury Way
+MA1 Manchester - CPC
+MA2 Manchester Piccadilly
+MD1 Biggleswade (Roadside)
+MD2 Mid Beds Rural (Silsoe)
+MD3 Central Beds - Sandy
+MD4 Central Beds - Marston Vale
+ME1 Merton - Morden Civic Centre
+MO2 Met Office - Mumbles
+MP1 Marchwood Power - Marchwood
+MP2 Marchwood Power - Millbrook Rd, Soton
+MP3 Marchwood Power - Marchwood (SM200)
+MR1 Marylebone Road - CPC
+MR2 Marylebone Road - SMPS
+MR3 Marylebone Rd - Baker St
+MV1 Mole Valley 1 - Leatherhead
+MV2 Mole Valley 2 - Lower Ashtead
+MV3 Mole Valley - Dorking
+MW1 Windsor and Maidenhead - Frascati Way
+MW2 Windsor and Maidenhead - Clarence Road
+MW3 Windsor and Maidenhead - Ascot
+MY0 Marylebone Road - Carbon
+MY1 Westminster - Marylebone Road
+MY2 Marylebone Rd - Baker St
+MY3 Marylebone Rd - Baker St
+MY7 Westminster - Marylebone Road FDMS
+MY8 Marylebone Rd - Nitrate
+NA5 Newtownabbey- Mallusk
+NA6 Newtownabbey- Shore Road
+NB0 Narbeth AURN
+NE2 Port Talbot - CPC
+NF1 New Forest - Holbury
+NF2 New Forest - Fawley
+NF3 New Forest - Ringwood
+NF4 New Forest - Totton
+NF5 New Forest - Lyndhurst
+NH1 N. Herts Roadside 1 (Baldock)
+NH2 N. Herts Roadside 2 (Baldock)
+NH3 N. Herts Background (Baldock)
+NH4 North Herts - Breechwood Green
+NH5 North Herts - Baldock Roadside
+NH6 North Herts - Hitchin Library
+NK1 North Kensington - CPC
+NK3 North Kensington
+NK4 North Kensington - Defra OP
+NM1 Newham 1 - Tant Avenue
+NM2 Newham - Cam Road
+NM3 Newham - Wren Close
+NT0 Nottingham Centre
+NW1 Norwich
+OX0 Oxford Centre Roadside AURN
+OX1 South Oxfordshire - Henley
+OX2 South Oxfordshire - Wallingford
+OX3 South Oxfordshire - Watlington
+OX4 Oxford St Ebbes AURN
+PL0 Plymouth Centre
+PL1 Plymouth Saltash Kerbside
+PO1 Portsmouth Background AURN
+PT1 Port Talbot
+PT4 Port Talbot Margam
+PT6 Port Talbot Dyffryn School
+PT8 Port Talbot - Env Ag Taibach
+PT9 Port Talbot - Env Ag Corus
+RB1 Redbridge - Perth Terrace
+RB2 Redbridge 2 - Ilford Broadway
+RB3 Redbridge - Fullwell Cross
+RB4 Redbridge - Gardner Close
+RB5 Redbridge - South Woodford
+RB6 Ilford Black Smoke (ILFORD 6)
+RD0 Reading AURN - New Town
+RD1 Reading - Caversham Road
+RD2 Reading - Kings Road
+RD3 Reading - Oxford Road
+RG1 Reigate and Banstead - Horley
+RG2 Reigate and Banstead - Horley South
+RG3 Reigate and Banstead - Poles Lane
+RG4 Reigate and Banstead - Reigate High St
+RGY Additional O3 at RG3
+RI1 Richmond - Castelnau
+RI2 Richmond - Barnes Wetlands
+RI5 Richmond Mobile
+RI6 Richmond Mobile
+RI7 Richmond Mobile - Richmond Park
+RI8 Richmond Mobile - Richmond Park
+RIA Richmond Mobile - George Street
+RIB Richmond Mobile - George Street
+RIC Richmond Mobile - Kew Road
+RID Richmond Mobile - Kew Road
+RIE Richmond Mobile - Richmond Road, Twickenham
+RIF Richmond Mobile - Richmond Road, Twickenham
+RIG Richmond Mobile - Upper Teddington Road
+RIH Richmond Mobile - Upper Teddington Road
+RII Richmond Mobile - Somerset Road, Teddington
+RIJ Richmond Mobile - Somerset Road, Teddington
+RIK Richmond Mobile - St. Margarets Grove
+RIL Richmond Mobile - St. Margarets Grove
+RIM Richmond Mobile - Petersham Road, Ham
+RIN Richmond Mobile - Petersham Road, Ham
+RIO Richmond Mobile - Stanley Road, Twickenham
+RIP Richmond Mobile - Stanley Road, Twickenham
+RIQ Richmond Mobile - Richmond Road, Twickenham
+RIR Richmond Mobile - Richmond Road, Twickenham
+RIS Richmond Mobile - Lincoln Avenue, Twickenham
+RIU Richmond Mobile - Mortlake Road, Kew
+RIW Richmond - Upper Teddington Road
+RIY Richmond - Hampton Court Road
+RM1 Runnymede - RHUL
+RY1 Rother - Rye Harbour
+RY2 Rother - De La Warr Road
+SA1 St Albans - Fleetville
+SB1 South Beds - Dunstable
+SC1 Sevenoaks 1
+SD1 Southend Background AURN
+SE1 Stevenage - Lytton Way
+SH1 Shukri research
+SH2 Shukri research
+SK1 Southwark 1 - Elephant & Castle
+SK2 Southwark 2 - Old Kent Road
+SL1 Sunderland
+SO0 Southampton Background AURN FDMS
+SO1 Southampton Background AURN
+SR0 Stoke on Trent
+SS1 Slough Black Smoke
+ST1 Sutton 1
+ST2 Sutton 2
+ST3 Sutton - Carshalton
+ST4 Sutton - Wallington
+ST5 Sutton - Beddington Lane
+ST6 Sutton - Worcester Park
+ST7 Sutton - Therapia Lane
+SU1 Sussex Mobile
+SU2 Sussex Mobile
+SU3 Sussex Mobile
+SU4 Sussex Mobile
+SU5 Tinsley Close, Crawley
+SU6 Sussex mobile, Chichester County Hall
+SU7 East Sussex - Warnham
+SX1 Sussex Mobile (location 1)
+SX2 Sussex Mobile (location 2)
+SX3 Sussex Mobile
+SX4 Sussex Mobile A259 (location 4)
+SX5 Sussex Mobile Fresh Fields Road (location 5)
+SX6 Sussex mobile site
+SX7 Sussex mobile site
+SX8 Sussex mobile site Arundel
+SX9 Sussex mobile site Newhaven
+TB1 Thurrock Black Smoke
+TD0 Richmond - National Physical Laboratory
+TE0 Tendring St Osyth - AURN
+TH1 Tower Hamlets - Poplar
+TH2 Tower Hamlets - Mile End Road
+TH3 Tower Hamlets - Bethnal Green
+TH4 Tower Hamlets - Blackwall
+TK1 Thurrock - London Road (Grays)
+TK2 Thurrock - Purfleet
+TK3 Thurrock - Stanford-le-Hope
+TK6 Thurrock - roadside OSIRIS
+TK8 Thurrock - London Road (Purfleet)
+TL1 GR4 Biomass
+TL2 CD1 chem speciation PM2.5
+TL3 BX2 Biomass
+TR1 Three Rivers - Rickmansworth
+UN1 Unison 1 - East
+UN2 Unison 2 - West
+VS1 Victoria Street - TRL
+WA2 Wandsworth - Town Hall
+WA3 Wandsworth 3 - Roehampton
+WA4 Wandsworth 4 - High Street
+WA6 Wandsworth 6 - Tooting
+WA7 Wandsworth - Putney High Street
+WE0 West London - AURN
+WF1 Watford Roadside
+WF2 Watford - Watford Town Hall
+WH1 Welwyn Hatfield - Council Offices
+WL1 Waltham Forest - Dawlish Road
+WL2 Waltham Forest 2 - Mobile
+WL3 Waltham Forest 3 - Chingford
+WL4 Waltham Forest - Crooked Billet
+WL5 Waltham Forest - Leyton
+WM0 Westminster - Horseferry Road
+WM2 Westminster Black Smoke (WESTMINSTER 17)
+WM3 Westminster - Hyde Park Partisol
+WM4 Westminster - Charing Cross Library
+WM5 Westminster - Covent Garden
+WR1 Bradford
+XB1 Bletchley
+XP1 Biomass Partisol - Greenwich(Eltham) - was TL1
+XP2 Biomass Partisol -Islington (Arsenal) - was TL2
+XP3 Biomass Partisol - Bexley(Belvedere)
+XP4 Biomass Partisol - Horseferry Road
+XP5 Biomass Partisol - North Ken
+XP6 Biomass Partisol - Ealing (Southall)
+YB1 Bentley Hall Farm
+YC1 Carr Lane
+YD1 Downes Ground
+YG1 Gainsborough Cemetery
+YH1 Harrogate Roadside
+YH2 Hemingbrough Landing
+YL1 Lowlands Farm
+YN1 New House Farm
+YP1 Park Farm
+YS1 Stile Cop Cemetery
+YS2 Smeathalls Farm
+YSB A3 - AURN
+YW1 West Bank
+ZA1 Ashford Rural - Pluckley
+ZA2 Ashford Roadside
+ZC1 Chatham Roadside - A2
+ZD1 Dover Roadside - Town Hall
+ZD2 Dover Roadside - Townwall Street
+ZD3 Dover Background - Langdon Cliff
+ZD4 Dover Background - East Cliff
+ZD5 Dover Coast Guard Met
+ZD6 Dover Docks
+ZF1 Folkestone Suburban - Cheriton
+ZG1 Gravesham Backgrnd - Northfleet
+ZG2 Gravesham Roadside - A2
+ZG3 Gravesham Ind Bgd - Northfleet
+ZH1 Thanet Rural - Minster
+ZH2 Thanet Background
+ZH3 Thanet Airport - Manston
+ZH4 Thanet Roadside - Ramsgate
+ZL1 Luton Background
+ZM1 Maidstone Meteorological
+ZM2 Maidstone Roadside - Fairmeadow
+ZM3 Maidstone Rural - Detling
+ZR1 Dartford Roadside - St Clements
+ZR2 Dartford Roadside 2 - Town Centre
+ZR3 Dartford Roadside 3 - Bean Interchange
+ZS1 Stoke Rural
+ZT1 Tonbridge Roadside - Town Centre
+ZT2 T. Wells Background - Town Hall
+ZT3 T. Wells Rural - Southborough
+ZT4 T. Wells - Roadside
+ZV1 Sevenoaks - Greatness Park
+ZV2 Sevenoaks - Bat and Ball
+ZW1 Swale Roadside
+ZW2 Swale Background
+ZW3 Swale Roadside 2
+ZY1 Canterbury Backgrnd - Chaucer TS
+ZY2 Canterbury Roadside - St. Dunstans

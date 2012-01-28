@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LAs ttl="59">
+   <la laname = "Barking and Dagenham" laid = "1" LaCentreLatitude = "51.538435" LaCentreLongitude = "0.11467" wgs84x = "12765.0060093" wgs84y = "6717095.01808" >
+      <site sitename = "Barking and Dagenham - Rush Green" sitecode = "BG1" sitetype = "Suburban" latitude = "51.563752" longitude = "0.177891" ttl = "59" wgs84x = "19802.7355367" wgs84y = "6721627.34498">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Barking and Dagenham - Scrattons Farm" sitecode = "BG2" sitetype = "Suburban" latitude = "51.529389" longitude = "0.132857" ttl = "59" wgs84x = "14789.5735883" wgs84y = "6715476.18683">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 08:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Barnet" laid = "2" LaCentreLatitude = "51.652929" LaCentreLongitude = "-0.199606" wgs84x = "-22220.038279" wgs84y = "6737612.214325" >
+      <site sitename = "Barnet - Tally Ho Corner" sitecode = "BN1" sitetype = "Kerbside" latitude = "51.614675" longitude = "-0.176607" ttl = "59" wgs84x = "-19659.8013105" wgs84y = "6730751.38494">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "2" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Barnet - Finchley" sitecode = "BN2" sitetype = "Urban Background" latitude = "51.591901" longitude = "-0.205992" ttl = "59" wgs84x = "-22930.9245475" wgs84y = "6726669.62886">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Bexley" laid = "3" LaCentreLatitude = "51.441355" LaCentreLongitude = "0.14861" wgs84x = "16543.189527" wgs84y = "6699738.789844" >
+      <site sitename = "Bexley - Manor Road West Gravimetric" sitecode = "BQ5" sitetype = "Industrial" latitude = "51.478205" longitude = "0.187462" ttl = "59" wgs84x = "20868.1743831" wgs84y = "6706322.58301">
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Bexley - Manor Road East Gravimetric" sitecode = "BQ6" sitetype = "Industrial" latitude = "51.477663155816" longitude = "0.190763852438156" ttl = "59" wgs84x = "20619.592703" wgs84y = "6706369.57357">
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Bexley - Belvedere West" sitecode = "BQ7" sitetype = "Urban Background" latitude = "51.4947386340801" longitude = "0.13431553018175" ttl = "59" wgs84x = "14951.9364255" wgs84y = "6709278.28804">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Bexley - Belvedere West FDMS" sitecode = "BQ8" sitetype = "Urban Background" latitude = "51.4947386340801" longitude = "0.13431553018175" ttl = "59" wgs84x = "14951.9364255" wgs84y = "6709278.28804">
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Bexley - Belvedere FDMS" sitecode = "BX0" sitetype = "Suburban" latitude = "51.490646" longitude = "0.158882" ttl = "59" wgs84x = "17686.6633362" wgs84y = "6708546.55118">
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Bexley - Slade Green" sitecode = "BX1" sitetype = "Suburban" latitude = "51.465992795828" longitude = "0.1848487862912" ttl = "59" wgs84x = "20577.2727637" wgs84y = "6704140.10457">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Bexley - Belvedere" sitecode = "BX2" sitetype = "Suburban" latitude = "51.490646" longitude = "0.158882" ttl = "59" wgs84x = "17686.6633362" wgs84y = "6708546.55118">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Bexley - Erith" sitecode = "BX4" sitetype = "Industrial" latitude = "51.47769" longitude = "0.190792" ttl = "59" wgs84x = "21238.8682874" wgs84y = "6706230.53407">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Greenwich and Bexley - Falconwood FDMS" sitecode = "GB0" sitetype = "Roadside" latitude = "51.4563" longitude = "0.085606" ttl = "59" wgs84x = "9529.61632885" wgs84y = "6702408.29265">
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Greenwich and Bexley - Falconwood" sitecode = "GB6" sitetype = "Roadside" latitude = "51.4563" longitude = "0.085606" ttl = "59" wgs84x = "9529.61632885" wgs84y = "6702408.29265">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "2" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Brent" laid = "4" LaCentreLatitude = "51.552255" LaCentreLongitude = "-0.30262" wgs84x = "-33687.504304" wgs84y = "6719568.804179" >
+      <site sitename = "Brent - Ikea" sitecode = "BT4" sitetype = "Roadside" latitude = "51.552476" longitude = "-0.258089" ttl = "59" wgs84x = "-28730.3360593" wgs84y = "6719608.36938">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "2" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "3" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Brent - Neasden Lane" sitecode = "BT5" sitetype = "Industrial" latitude = "51.552656" longitude = "-0.248774" ttl = "59" wgs84x = "-27693.3950026" wgs84y = "6719640.59457">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Brent - John Keble Primary School" sitecode = "BT6" sitetype = "Roadside" latitude = "51.537799" longitude = "-0.247793" ttl = "59" wgs84x = "-27584.1905821" wgs84y = "6716981.19188">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Camden" laid = "6" LaCentreLatitude = "51.551706" LaCentreLongitude = "-0.158825" wgs84x = "-17680.318125" wgs84y = "6719470.518604" >
+      <site sitename = "Camden - Bloomsbury" sitecode = "BL0" sitetype = "Urban Background" latitude = "51.522287" longitude = "-0.125848" ttl = "59" wgs84x = "-14009.3352774" wgs84y = "6714205.47041">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Camden - Swiss Cottage" sitecode = "CD1" sitetype = "Kerbside" latitude = "51.544219" longitude = "-0.175284" ttl = "59" wgs84x = "-19512.5256242" wgs84y = "6718130.26521">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "2" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "3" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Camden - Shaftesbury Avenue" sitecode = "CD3" sitetype = "Roadside" latitude = "51.515532" longitude = "-0.127027" ttl = "59" wgs84x = "-14140.580957" wgs84y = "6712997.0244">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "2" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Camden - Euston Road" sitecode = "CD9" sitetype = "Roadside" latitude = "51.5277066194645" longitude = "-0.129053205282516" ttl = "59" wgs84x = "-14366.1370973" wgs84y = "6715175.15109">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "2" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "City of London" laid = "7" LaCentreLatitude = "51.51333" LaCentreLongitude = "-0.088947" wgs84x = "-9901.534748" wgs84y = "6712603.132989" >
+      <site sitename = "City of London - Senator House" sitecode = "CT1" sitetype = "Urban Background" latitude = "51.511491" longitude = "-0.095807" ttl = "59" wgs84x = "-10665.1864544" wgs84y = "6712274.18922">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "City of London - Sir John Cass School" sitecode = "CT3" sitetype = "Urban Background" latitude = "51.513847178423" longitude = "-0.077765681752" ttl = "59" wgs84x = "-8656.83609382" wgs84y = "6712695.6436">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "City of London - Walbrook Wharf" sitecode = "CT6" sitetype = "Roadside" latitude = "51.510499" longitude = "-0.091634" ttl = "59" wgs84x = "-10200.6502194" wgs84y = "6712096.7547">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 05:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 08:00:00 GMT" />
+      </site>
+      <site sitename = "City of London - Upper Thames Street" sitecode = "CT8" sitetype = "Roadside" latitude = "51.5095436853913" longitude = "-8.73571979556188E-02" ttl = "59" wgs84x = "-9724.55879355" wgs84y = "6711925.88559">
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Croydon" laid = "8" LaCentreLatitude = "51.372361" LaCentreLongitude = "-0.100401" wgs84x = "-11176.588195" wgs84y = "6687426.268766" >
+      <site sitename = "Croydon - Purley Way" sitecode = "CR2" sitetype = "Roadside" latitude = "51.362638" longitude = "-0.117952" ttl = "59" wgs84x = "-13130.356578" wgs84y = "6685692.61527">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Croydon - Thornton Heath" sitecode = "CR3" sitetype = "Suburban" latitude = "51.40401" longitude = "-0.098814" ttl = "59" wgs84x = "-10999.9241632" wgs84y = "6693071.97514">
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Croydon - George Street" sitecode = "CR4" sitetype = "Roadside" latitude = "51.374312" longitude = "-0.096503" ttl = "59" wgs84x = "-10742.66482" wgs84y = "6687774.18496">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Croydon - Norbury" sitecode = "CR5" sitetype = "Kerbside" latitude = "51.411349" longitude = "-0.12311" ttl = "59" wgs84x = "-13704.5425116" wgs84y = "6694381.70052">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "2" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Ealing" laid = "9" LaCentreLatitude = "51.513351" LaCentreLongitude = "-0.304214" wgs84x = "-33864.947572" wgs84y = "6712606.889356" >
+      <site sitename = "Ealing - Hanger Lane Gyratory" sitecode = "EA6" sitetype = "Roadside" latitude = "51.53085" longitude = "-0.292488" ttl = "59" wgs84x = "-32559.6152231" wgs84y = "6715737.619">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Ealing - Southall" sitecode = "EA7" sitetype = "Urban Background" latitude = "51.508549" longitude = "-0.392179" ttl = "59" wgs84x = "-43657.1665798" wgs84y = "6711747.97835">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Ealing - Horn Lane" sitecode = "EA8" sitetype = "Industrial" latitude = "51.518948" longitude = "-0.265617" ttl = "59" wgs84x = "-29568.349186" wgs84y = "6713608.11252">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 00:00:00 GMT" />
+      </site>
+      <site sitename = "Ealing - Western Avenue" sitecode = "EI1" sitetype = "Roadside" latitude = "51.5236078191481" longitude = "-0.265502631799754" ttl = "59" wgs84x = "-29555.6177762" wgs84y = "6714441.78131">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Ealing - Southall Railway" sitecode = "EI2" sitetype = "Roadside" latitude = "51.5058699783726" longitude = "-0.380241031512669" ttl = "59" wgs84x = "-42328.2380067" wgs84y = "6711268.83378">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Ealing - Southall FDMS" sitecode = "EI7" sitetype = "Urban Background" latitude = "51.5085164816243" longitude = "-0.392208459173292" ttl = "59" wgs84x = "-43657.1665798" wgs84y = "6711747.97835">
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Enfield" laid = "10" LaCentreLatitude = "51.652096" LaCentreLongitude = "-0.081533" wgs84x = "-9076.212043" wgs84y = "6737462.75468" >
+      <site sitename = "Enfield - Derby Road" sitecode = "EN4" sitetype = "Roadside" latitude = "51.614693" longitude = "-0.051184" ttl = "59" wgs84x = "-5697.77681676" wgs84y = "6730754.61187">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Enfield - Bowes Primary School" sitecode = "EN5" sitetype = "Roadside" latitude = "51.613865" longitude = "-0.125338" ttl = "59" wgs84x = "-13952.562337" wgs84y = "6730606.17452">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Greenwich" laid = "11" LaCentreLatitude = "51.47879" LaCentreLongitude = "-0.010677" wgs84x = "-1188.558203" wgs84y = "6706427.144723" >
+      <site sitename = "Greenwich - A206 Burrage Grove" sitecode = "GN0" sitetype = "Roadside" latitude = "51.490532" longitude = "0.074003" ttl = "59" wgs84x = "8237.97627717" wgs84y = "6708526.16964">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Greenwich - Millennium Village" sitecode = "GN2" sitetype = "Industrial" latitude = "51.492571" longitude = "0.017697" ttl = "59" wgs84x = "1970.02102857" wgs84y = "6708890.72071">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Greenwich - Plumstead High Street" sitecode = "GN3" sitetype = "Roadside" latitude = "51.486957" longitude = "0.095111" ttl = "59" wgs84x = "10587.7080888" wgs84y = "6707887.0378">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Greenwich - Fiveways Sidcup Rd A20" sitecode = "GN4" sitetype = "Roadside" latitude = "51.4346627060562" longitude = "6.42224671704697E-02" ttl = "59" wgs84x = "4535.53633525" wgs84y = "6702412.5486">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Greenwich - Eltham" sitecode = "GR4" sitetype = "Suburban" latitude = "51.45258" longitude = "0.070766" ttl = "59" wgs84x = "7877.63508548" wgs84y = "6701743.73787">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Greenwich - Trafalgar Road" sitecode = "GR5" sitetype = "Roadside" latitude = "51.483479" longitude = "-0.000109" ttl = "59" wgs84x = "-12.1338244965" wgs84y = "6707265.29552">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Greenwich - Blackheath" sitecode = "GR7" sitetype = "Roadside" latitude = "51.472504" longitude = "-0.012381" ttl = "59" wgs84x = "-1378.24661551" wgs84y = "6705303.66805">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Greenwich - Woolwich Flyover" sitecode = "GR8" sitetype = "Roadside" latitude = "51.486884" longitude = "0.017901" ttl = "59" wgs84x = "1992.73020469" wgs84y = "6707873.98752">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Greenwich - Westhorne Avenue" sitecode = "GR9" sitetype = "Roadside" latitude = "51.456357" longitude = "0.040725" ttl = "59" wgs84x = "4533.48626256" wgs84y = "6702418.47577">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Hackney" laid = "12" LaCentreLatitude = "51.545787" LaCentreLongitude = "-0.055418" wgs84x = "-6169.103541" wgs84y = "6718410.935789" >
+      <site sitename = "Hackney - Old Street" sitecode = "HK6" sitetype = "Roadside" latitude = "51.526454" longitude = "-0.08491" ttl = "59" wgs84x = "-9452.13796326" wgs84y = "6714951.02162">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Hammersmith and Fulham" laid = "13" LaCentreLatitude = "51.486674" LaCentreLongitude = "-0.212088" wgs84x = "-23609.528163" wgs84y = "6707836.445728" >
+      <site sitename = "Hammersmith and Fulham - Shepherds Bush" sitecode = "HF4" sitetype = "Roadside" latitude = "51.5045625671557" longitude = "-0.224670007031603" ttl = "59" wgs84x = "-25010.1507793" wgs84y = "6711035.01276">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "2" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Haringey" laid = "14" LaCentreLatitude = "51.577629" LaCentreLongitude = "-0.091721" wgs84x = "-10210.335015" wgs84y = "6724112.718777" >
+      <site sitename = "Haringey - Haringey Town Hall" sitecode = "HG1" sitetype = "Roadside" latitude = "51.599302" longitude = "-0.068218" ttl = "59" wgs84x = "-7593.99302294" wgs84y = "6727995.87648">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Haringey - Priory Park" sitecode = "HG2" sitetype = "Urban Background" latitude = "51.586029" longitude = "-0.126486" ttl = "59" wgs84x = "-14080.3571125" wgs84y = "6725617.52937">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Harrow" laid = "15" LaCentreLatitude = "51.578809" LaCentreLongitude = "-0.33376" wgs84x = "-37153.993247" wgs84y = "6724324.092044" >
+      <site sitename = "Harrow - Stanmore" sitecode = "HR1" sitetype = "Urban Background" latitude = "51.617327" longitude = "-0.298775" ttl = "59" wgs84x = "-33259.4808618" wgs84y = "6731226.83276">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Harrow - Pinner Road" sitecode = "HR2" sitetype = "Roadside" latitude = "51.588417" longitude = "-0.362989" ttl = "59" wgs84x = "-40407.7506436" wgs84y = "6726045.37632">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Havering" laid = "16" LaCentreLatitude = "51.577924" LaCentreLongitude = "0.212083" wgs84x = "23608.971566" wgs84y = "6724165.561579" >
+      <site sitename = "Havering - Romford" sitecode = "HV3" sitetype = "Roadside" latitude = "51.572976" longitude = "0.179079" ttl = "59" wgs84x = "19934.9830918" wgs84y = "6723279.28089">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Hillingdon" laid = "17" LaCentreLatitude = "51.533411" LaCentreLongitude = "-0.452568" wgs84x = "-50379.639309" wgs84y = "6716195.906043" >
+      <site sitename = "Hillingdon - Sipson Road" sitecode = "HI0" sitetype = "Suburban" latitude = "51.496309" longitude = "-0.460826" ttl = "59" wgs84x = "-51298.9156643" wgs84y = "6709559.07689">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Hillingdon - Harlington" sitecode = "LH0" sitetype = "Urban Background" latitude = "51.48878" longitude = "-0.441627" ttl = "59" wgs84x = "-49161.6927606" wgs84y = "6708212.94408">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Hounslow" laid = "18" LaCentreLatitude = "51.467586" LaCentreLongitude = "-0.361799" wgs84x = "-40275.28045" wgs84y = "6704424.797578" >
+      <site sitename = "Hounslow - Cranford" sitecode = "HS2" sitetype = "Suburban" latitude = "51.482982" longitude = "-0.411895" ttl = "59" wgs84x = "-45851.9416603" wgs84y = "6707176.45353">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 13:00:00 GMT" />
+      </site>
+      <site sitename = "Hounslow - Chiswick High Road" sitecode = "HS4" sitetype = "Roadside" latitude = "51.492507" longitude = "-0.257252" ttl = "59" wgs84x = "-28637.1616456" wgs84y = "6708879.27796">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Hounslow - Brentford" sitecode = "HS5" sitetype = "Roadside" latitude = "51.489398" longitude = "-0.310081" ttl = "59" wgs84x = "-34518.0590247" wgs84y = "6708323.42981">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "3" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Hounslow - Heston Road" sitecode = "HS6" sitetype = "Roadside" latitude = "51.479129" longitude = "-0.36476" ttl = "59" wgs84x = "-40604.8974618" wgs84y = "6706487.73751">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Hounslow - Hatton Cross" sitecode = "HS7" sitetype = "Urban Background" latitude = "51.463402" longitude = "-0.427525" ttl = "59" wgs84x = "-47591.8653014" wgs84y = "6703677.17104">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Hounslow - Feltham" sitecode = "HS9" sitetype = "Roadside" latitude = "51.4473877655456" longitude = "-0.408732837243793" ttl = "59" wgs84x = "-45499.9313125" wgs84y = "6700816.26812">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Islington" laid = "19" LaCentreLatitude = "51.534961" LaCentreLongitude = "-0.103742" wgs84x = "-11548.506614" wgs84y = "6716473.288702" >
+      <site sitename = "Islington - Holloway Road" sitecode = "IS2" sitetype = "Roadside" latitude = "51.555378" longitude = "-0.116146" ttl = "59" wgs84x = "-12929.3135777" wgs84y = "6720127.92666">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Islington - Arsenal" sitecode = "IS6" sitetype = "Urban Background" latitude = "51.557895" longitude = "-0.106989" ttl = "59" wgs84x = "-11909.9610005" wgs84y = "6720578.5826">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Kensington and Chelsea" laid = "20" LaCentreLatitude = "51.501886" LaCentreLongitude = "-0.190895" wgs84x = "-21250.334195" wgs84y = "6710556.349032" >
+      <site sitename = "Kensington and Chelsea - North Ken" sitecode = "KC1" sitetype = "Urban Background" latitude = "51.5210467476039" longitude = "-0.213492139585065" ttl = "59" wgs84x = "-23765.836267" wgs84y = "6713983.58013">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Kensington and Chelsea - Cromwell Road" sitecode = "KC2" sitetype = "Roadside" latitude = "51.49550391" longitude = "-0.178809464" ttl = "59" wgs84x = "-19904.9784815" wgs84y = "6709415.12178">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Kensington and Chelsea - Knightsbridge" sitecode = "KC3" sitetype = "Roadside" latitude = "51.49913951" longitude = "-0.164337605" ttl = "59" wgs84x = "-18293.9785068" wgs84y = "6710065.20988">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "4" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Kensington and Chelsea - Kings Road" sitecode = "KC4" sitetype = "Roadside" latitude = "51.48743685" longitude = "-0.168397129" ttl = "59" wgs84x = "-18745.8826513" wgs84y = "6707972.82158">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "2" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Kensington and Chelsea - Earls Court Rd" sitecode = "KC5" sitetype = "Kerbside" latitude = "51.49019756" longitude = "-0.190863311" ttl = "59" wgs84x = "-21246.8065916" wgs84y = "6708466.37696">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "2" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Kensington and Chelsea - North Ken FDMS" sitecode = "KC7" sitetype = "Urban Background" latitude = "51.52106551" longitude = "-0.21344617" ttl = "59" wgs84x = "-23760.7189562" wgs84y = "6713986.93682">
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Kingston" laid = "21" LaCentreLatitude = "51.412317" LaCentreLongitude = "-0.300443" wgs84x = "-33445.161772" wgs84y = "6694554.466476" >
+   </la>
+   <la laname = "Lambeth" laid = "22" LaCentreLatitude = "51.489112" LaCentreLongitude = "-0.11067" wgs84x = "-12319.728046" wgs84y = "6708272.298688" >
+      <site sitename = "Lambeth - Brixton Road" sitecode = "LB4" sitetype = "Kerbside" latitude = "51.464148" longitude = "-0.114549" ttl = "59" wgs84x = "-12751.5363509" wgs84y = "6703810.46654">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Lambeth - Bondway Interchange" sitecode = "LB5" sitetype = "Industrial" latitude = "51.485519" longitude = "-0.124509" ttl = "59" wgs84x = "-13860.2784792" wgs84y = "6707629.96897">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Lambeth - Streatham Green" sitecode = "LB6" sitetype = "Urban Background" latitude = "51.4282131429499" longitude = "-0.13186863879576" ttl = "59" wgs84x = "-14679.5497223" wgs84y = "6697392.0894">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Lewisham" laid = "23" LaCentreLatitude = "51.456879" LaCentreLongitude = "-0.015964" wgs84x = "-1777.104351" wgs84y = "6702511.73226" >
+      <site sitename = "Lewisham - Catford" sitecode = "LW1" sitetype = "Urban Background" latitude = "51.445468" longitude = "-0.020266" ttl = "59" wgs84x = "-2256.00080042" wgs84y = "6700473.37417">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Lewisham - New Cross" sitecode = "LW2" sitetype = "Roadside" latitude = "51.474954" longitude = "-0.039641" ttl = "59" wgs84x = "-4412.81593454" wgs84y = "6705741.5303">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Lewisham - Mercury Way" sitecode = "LW3" sitetype = "Industrial" latitude = "51.4811412184719" longitude = "-4.56708566668043E-02" ttl = "59" wgs84x = "-5084.05650824" wgs84y = "6706847.41027">
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Merton" laid = "24" LaCentreLatitude = "51.415672" LaCentreLongitude = "-0.191814" wgs84x = "-21352.636807" wgs84y = "6695153.285882" >
+      <site sitename = "Merton - Morden Civic Centre" sitecode = "ME1" sitetype = "Roadside" latitude = "51.40105" longitude = "-0.195929" ttl = "59" wgs84x = "-21810.7165116" wgs84y = "6692543.79001">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Merton - Merton Road" sitecode = "ME2" sitetype = "Roadside" latitude = "51.4161384794862" longitude = "-0.192230805042824" ttl = "59" wgs84x = "-21399.0353321" wgs84y = "6695236.54926">
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Newham" laid = "25" LaCentreLatitude = "51.525516" LaCentreLongitude = "0.035216" wgs84x = "3920.227188" wgs84y = "6714783.190603" >
+      <site sitename = "Newham - Cam Road" sitecode = "NM2" sitetype = "Roadside" latitude = "51.537598" longitude = "-0.002138" ttl = "59" wgs84x = "-238.001071316" wgs84y = "6716945.21884">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "2" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Newham - Wren Close" sitecode = "NM3" sitetype = "Urban Background" latitude = "51.514727" longitude = "0.014554" ttl = "59" wgs84x = "1620.14386901" wgs84y = "6712853.02465">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Redbridge" laid = "26" LaCentreLatitude = "51.58861" LaCentreLongitude = "0.082398" wgs84x = "9172.503402" wgs84y = "6726079.956218" >
+      <site sitename = "Redbridge - Perth Terrace" sitecode = "RB1" sitetype = "Urban Background" latitude = "51.569221" longitude = "0.081821" ttl = "59" wgs84x = "9108.2720562" wgs84y = "6722606.75352">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Redbridge - Fullwell Cross" sitecode = "RB3" sitetype = "Kerbside" latitude = "51.593935" longitude = "0.085516" ttl = "59" wgs84x = "9519.59757468" wgs84y = "6727034.09695">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "2" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "3" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Redbridge - Gardner Close" sitecode = "RB4" sitetype = "Roadside" latitude = "51.57661" longitude = "0.030858" ttl = "59" wgs84x = "3435.0968469" wgs84y = "6723930.18984">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Redbridge - South Woodford" sitecode = "RB5" sitetype = "Roadside" latitude = "51.595851" longitude = "0.020087" ttl = "59" wgs84x = "2236.07461156" wgs84y = "6727377.43579">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Richmond Upon Thames" laid = "27" LaCentreLatitude = "51.461342" LaCentreLongitude = "-0.303547" wgs84x = "-33790.697472" wgs84y = "6703309.100938" >
+      <site sitename = "Richmond Upon Thames - Castlenau" sitecode = "RI1" sitetype = "Roadside" latitude = "51.480189" longitude = "-0.237335" ttl = "59" wgs84x = "-26420.0113474" wgs84y = "6706677.20458">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Richmond Upon Thames - Barnes Wetlands" sitecode = "RI2" sitetype = "Suburban" latitude = "51.476168" longitude = "-0.230427" ttl = "59" wgs84x = "-25651.016305" wgs84y = "6705958.50423">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Richmond Upon Thames - Ntl Physical  Lab" sitecode = "TD0" sitetype = "Suburban" latitude = "51.4243043441456" longitude = "-0.345714576446947" ttl = "59" wgs84x = "-37808.8858115" wgs84y = "6696103.27675">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Southwark" laid = "28" LaCentreLatitude = "51.501725" LaCentreLongitude = "-0.097993" wgs84x = "-10908.530861" wgs84y = "6710527.557503" >
+      <site sitename = "Southwark - A2 Old Kent Road" sitecode = "SK5" sitetype = "Roadside" latitude = "51.4804994936467" longitude = "-5.95528932573422E-02" ttl = "59" wgs84x = "-6629.39775267" wgs84y = "6706732.70383">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "2" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Sutton" laid = "29" LaCentreLatitude = "51.360448" LaCentreLongitude = "-0.191691" wgs84x = "-21338.94451" wgs84y = "6685302.179467" >
+      <site sitename = "Sutton - Carshalton" sitecode = "ST3" sitetype = "Suburban" latitude = "51.365318" longitude = "-0.165936" ttl = "59" wgs84x = "-18471.9110243" wgs84y = "6686170.43427">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Sutton - Wallington" sitecode = "ST4" sitetype = "Kerbside" latitude = "51.358685" longitude = "-0.149689" ttl = "59" wgs84x = "-16663.3032574" wgs84y = "6684987.88329">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "2" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Sutton - Beddington Lane" sitecode = "ST5" sitetype = "Industrial" latitude = "51.389313" longitude = "-0.141631" ttl = "59" wgs84x = "-15766.2908005" wgs84y = "6690449.76537">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Sutton - Worcester Park" sitecode = "ST6" sitetype = "Kerbside" latitude = "51.377923" longitude = "-0.240414" ttl = "59" wgs84x = "-26762.7640596" wgs84y = "6688418.16328">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Sutton - Therapia Lane" sitecode = "ST7" sitetype = "Industrial" latitude = "51.3858391292126" longitude = "-0.136339857220486" ttl = "59" wgs84x = "-15177.2834806" wgs84y = "6689830.08727">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Tower Hamlets" laid = "30" LaCentreLatitude = "51.523244" LaCentreLongitude = "-0.027208" wgs84x = "-3028.780706" wgs84y = "6714376.688877" >
+      <site sitename = "Tower Hamlets - Poplar" sitecode = "TH1" sitetype = "Urban Background" latitude = "51.510012" longitude = "-0.019866" ttl = "59" wgs84x = "-2211.4730041" wgs84y = "6712009.64865">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Tower Hamlets - Mile End Road" sitecode = "TH2" sitetype = "Roadside" latitude = "51.5225294860844" longitude = "-4.21550991900347E-02" ttl = "59" wgs84x = "-4688.33167425" wgs84y = "6714255.02857">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "2" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Tower Hamlets - Blackwall" sitecode = "TH4" sitetype = "Roadside" latitude = "51.515077" longitude = "-0.008387" ttl = "59" wgs84x = "-933.636569283" wgs84y = "6712915.63292">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Wandsworth" laid = "32" LaCentreLatitude = "51.45679" LaCentreLongitude = "-0.192679" wgs84x = "-21448.928167" wgs84y = "6702495.832131" >
+      <site sitename = "Wandsworth - Wandsworth Town Hall" sitecode = "WA2" sitetype = "Urban Background" latitude = "51.456962" longitude = "-0.191074" ttl = "59" wgs84x = "-21270.2603838" wgs84y = "6702526.5605">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "2" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 16:00:00 GMT" />
+      </site>
+      <site sitename = "Wandsworth - Putney High Street" sitecode = "WA7" sitetype = "Kerbside" latitude = "51.463429" longitude = "-0.215871" ttl = "59" wgs84x = "-24030.649797" wgs84y = "6703681.99537">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "4" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Wandsworth - Putney High Street Facade" sitecode = "WA8" sitetype = "Roadside" latitude = "51.4637206047191" longitude = "-0.215890144123119" ttl = "59" wgs84x = "-24032.7809111" wgs84y = "6703734.09916">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "3" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Wandsworth - Putney" sitecode = "WA9" sitetype = "Urban Background" latitude = "51.4650325059122" longitude = "-0.215824580947572" ttl = "59" wgs84x = "-24025.4824518" wgs84y = "6703968.51315">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Westminster" laid = "33" LaCentreLatitude = "51.509645" LaCentreLongitude = "-0.158586" wgs84x = "-17653.712767" wgs84y = "6711944.006712" >
+      <site sitename = "Westminster - Marylebone Road" sitecode = "MY1" sitetype = "Kerbside" latitude = "51.52254" longitude = "-0.15459" ttl = "59" wgs84x = "-17208.8800817" wgs84y = "6714250.73471">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Westminster - Marylebone Road FDMS" sitecode = "MY7" sitetype = "Kerbside" latitude = "51.52254" longitude = "-0.15459" ttl = "59" wgs84x = "-17208.8800817" wgs84y = "6714250.73471">
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Westminster - Horseferry Road" sitecode = "WM0" sitetype = "Urban Background" latitude = "51.494681" longitude = "-0.131938" ttl = "59" wgs84x = "-14687.2709763" wgs84y = "6709267.98298">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Westminster - Oxford St" sitecode = "WM6" sitetype = "Kerbside" latitude = "51.5139287404213" longitude = "-0.152792701881935" ttl = "59" wgs84x = "-17008.8057704" wgs84y = "6712710.23315">
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Thurrock" laid = "34" LaCentreLatitude = "51.493456" LaCentreLongitude = "0.35292" wgs84x = "39286.874691" wgs84y = "6709048.95418" >
+      <site sitename = "Thurrock - London Road (Grays)" sitecode = "TK1" sitetype = "Urban Background" latitude = "51.477076" longitude = "0.317938" ttl = "59" wgs84x = "35392.6962638" wgs84y = "6706120.79163">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Thurrock - Stanford-le-Hope" sitecode = "TK3" sitetype = "Roadside" latitude = "51.518162" longitude = "0.439548" ttl = "59" wgs84x = "48930.2595392" wgs84y = "6713467.50095">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Thurrock - London Road (Purfleet)" sitecode = "TK8" sitetype = "Roadside" latitude = "51.478697" longitude = "0.255133" ttl = "59" wgs84x = "28401.2756446" wgs84y = "6706410.522">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Windsor and Maidenhead" laid = "35" LaCentreLatitude = "51.500836" LaCentreLongitude = "-0.666733" wgs84x = "-74220.378055" wgs84y = "6710368.580024" >
+      <site sitename = "Windsor and Maidenhead - Frascati Way" sitecode = "MW1" sitetype = "Roadside" latitude = "51.520894546995" longitude = "-0.724024666515" ttl = "59" wgs84x = "-80598.0571982" wgs84y = "6713956.35074">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 05:00:00 GMT" />
+      </site>
+      <site sitename = "Windsor and Maidenhead - Clarence Road" sitecode = "MW2" sitetype = "Roadside" latitude = "51.480178972651" longitude = "-0.62380842514" ttl = "59" wgs84x = "-69442.0362391" wgs84y = "6706675.41225">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Windsor and Maidenhead - Ascot" sitecode = "MW3" sitetype = "Rural" latitude = "51.414941181381" longitude = "-0.652429197866" ttl = "59" wgs84x = "-72628.0860851" wgs84y = "6695022.84149">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Sevenoaks" laid = "37" LaCentreLatitude = "51.269958" LaCentreLongitude = "0.19308" wgs84x = "21493.567282" wgs84y = "6669185.808189" >
+      <site sitename = "Sevenoaks - Greatness Park" sitecode = "ZV1" sitetype = "Urban Background" latitude = "51.289391" longitude = "0.201437" ttl = "59" wgs84x = "22423.8642669" wgs84y = "6672644.16848">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Sevenoaks - Bat and Ball" sitecode = "ZV2" sitetype = "Roadside" latitude = "51.28879" longitude = "0.193401" ttl = "59" wgs84x = "21529.3008389" wgs84y = "6672537.19063">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Reigate and Banstead" laid = "40" LaCentreLatitude = "51.283942" LaCentreLongitude = "-0.209862" wgs84x = "-23361.730977" wgs84y = "6671674.298992" >
+      <site sitename = "Reigate and Banstead - Horley" sitecode = "RG1" sitetype = "Suburban" latitude = "51.165858475858" longitude = "-0.167734107139" ttl = "59" wgs84x = "-18672.0753954" wgs84y = "6650684.77207">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Reigate and Banstead - Horley South" sitecode = "RG2" sitetype = "Suburban" latitude = "51.161508" longitude = "-0.162928" ttl = "59" wgs84x = "-18137.061996" wgs84y = "6649912.49562">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Reigate and Banstead - Poles Lane" sitecode = "RG3" sitetype = "Rural" latitude = "51.142082" longitude = "-0.194181" ttl = "59" wgs84x = "-21616.1300417" wgs84y = "6646464.96992">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Reigate and Banstead - Reigate High St" sitecode = "RG4" sitetype = "Kerbside" latitude = "51.237666" longitude = "-0.206011" ttl = "59" wgs84x = "-22933.0396178" wgs84y = "6663442.25107">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Mole Valley" laid = "41" LaCentreLatitude = "51.220851" LaCentreLongitude = "-0.326114" wgs84x = "-36302.844421" wgs84y = "6660453.078178" >
+      <site sitename = "Mole Valley - Dorking" sitecode = "MV3" sitetype = "Urban Background" latitude = "51.23545" longitude = "-0.32499" ttl = "59" wgs84x = "-36177.7213129" wgs84y = "6663048.25416">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Brentwood" laid = "42" LaCentreLatitude = "51.621407" LaCentreLongitude = "0.305749" wgs84x = "34035.822991" wgs84y = "6731958.345203" >
+      <site sitename = "Brentwood - Brentwood Town Hall" sitecode = "BW1" sitetype = "Urban Background" latitude = "51.618686" longitude = "0.307746" ttl = "59" wgs84x = "34258.1280137" wgs84y = "6731470.48365">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Castle Point" laid = "43" LaCentreLatitude = "51.534684" LaCentreLongitude = "0.590429" wgs84x = "65726.25563" wgs84y = "6716423.717043" >
+      <site sitename = "Castle Point - Hadleigh" sitecode = "CP2" sitetype = "Roadside" latitude = "51.554064" longitude = "0.60606" ttl = "59" wgs84x = "67466.2905902" wgs84y = "6719892.6716">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "Reading" laid = "325" LaCentreLatitude = "51.455041" LaCentreLongitude = "-0.969088" wgs84x = "-107878.382694" wgs84y = "6702183.3741" >
+      <site sitename = "Reading - New Town" sitecode = "RD0" sitetype = "Urban Background" latitude = "51.4529847075166" longitude = "-0.944461432664066" ttl = "59" wgs84x = "-105136.965758" wgs84y = "6701816.03372">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Reading - Caversham Road" sitecode = "RD1" sitetype = "Roadside" latitude = "51.464354" longitude = "-0.9771" ttl = "59" wgs84x = "-108770.274454" wgs84y = "6703847.27507">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 05:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Reading - Kings Road" sitecode = "RD2" sitetype = "Roadside" latitude = "51.453119" longitude = "-0.949941" ttl = "59" wgs84x = "-105746.948404" wgs84y = "6701840.0235">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 05:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "Reading - Oxford Road" sitecode = "RD3" sitetype = "Roadside" latitude = "51.461963" longitude = "-1.012509" ttl = "59" wgs84x = "-112711.986304" wgs84y = "6703420.05624">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+   <la laname = "London Mean" laid = "600" LaCentreLatitude = "" LaCentreLongitude = "" wgs84x = "" wgs84y = "" >
+      <site sitename = "London Mean Background" sitecode = "LBG" sitetype = "Urban Background" latitude = "49.7667866669653" longitude = "-7.55715939721731" ttl = "59" wgs84x = "-841259.135942" wgs84y = "6405984.93247">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "London Mean" sitecode = "LMN" sitetype = "All" latitude = "49.7667866669653" longitude = "-7.55715939721731" ttl = "59" wgs84x = "-841259.135942" wgs84y = "6405984.93247">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "1" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+      <site sitename = "London Mean Roadside" sitecode = "LRS" sitetype = "Roadside" latitude = "49.7667866669653" longitude = "-7.55715939721731" ttl = "59" wgs84x = "-841259.135942" wgs84y = "6405984.93247">
+         <species speciesname = "Nitrogen Dioxide" speciescode = "NO2" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Ozone" speciescode = "O3" aqindex = "1" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM10 Particulate" speciescode = "PM10" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "PM2.5 Particulate" speciescode = "PM25" aqindex = "2" IndexSource = "Trigger" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+         <species speciesname = "Sulphur Dioxide" speciescode = "SO2" aqindex = "0" IndexSource = "Measurement" dataend = "Sat, 28 Jan 2012 17:00:00 GMT" />
+      </site>
+   </la>
+</LAs>
