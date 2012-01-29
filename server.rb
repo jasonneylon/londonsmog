@@ -61,10 +61,13 @@ get "/" do
 	 end
 
 	sites = sites.map do |x| 
-		{:sitename => x.attributes["sitename"], :sitecode => x.attributes["sitecode"], 
-			:latitude => x.attributes["latitude"], :longitude => x.attributes["longitude"]} 
-	end
+	 	aqindex = x.elements.first.attributes["aqindex"] 
 
+		{
+			:sitename => x.attributes["sitename"], :sitecode => x.attributes["sitecode"], 
+			:latitude => x.attributes["latitude"], :longitude => x.attributes["longitude"], :aqindex => aqindex
+		} 
+	end
 
  # 	aqindex = site.elements.first.attributes["aqindex"] 
  # 	aqindex = params["aqindex"] if params["aqindex"]

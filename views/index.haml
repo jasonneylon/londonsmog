@@ -19,11 +19,14 @@
           for(var i =0; i < sites.length; i++)
           {
             var s = sites[i];
+
+            var image = "/images/icons/number_" + s.aqindex + ".png";
             var marker = new google.maps.Marker({
               position: new google.maps.LatLng(s.latitude, s.longitude),
               map: map,
               url: "/area?sitecode=" + s.sitecode,
-              title:s.sitename
+              title:s.sitename,
+              icon: image 
             });
             attachUrl(marker, "/area?sitecode=" + s.sitecode)
 
