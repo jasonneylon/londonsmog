@@ -7,7 +7,28 @@
           };
           var map = new google.maps.Map(document.getElementById("map_canvas"),
               myOptions);
-        }
+          
+          function attachUrl(marker, url) {
+            google.maps.event.addListener(marker, 'click', function() {
+              // console.log(url);
+              window.location.href = url
+            });
+          }
+
+          var sites = #{sites.to_json};
+          for(var i =0; i < sites.length; i++)
+          {
+            var s = sites[i];
+            var marker = new google.maps.Marker({
+              position: new google.maps.LatLng(s.latitude, s.longitude),
+              map: map,
+              url: "/area?sitecode=" + s.sitecode,
+              title:s.sitename
+            });
+            attachUrl(marker, "/area?sitecode=" + s.sitecode)
+
+          }
+      }
         
 %article.thirteen.columns.alpha
   %h1 London's Invisible Smog
@@ -23,7 +44,7 @@
     %ul
       - sites.each do |s|
         %li
-          %a{:href=>"/area?sitecode=#{s.attributes["sitecode"]}"}= s.attributes["sitename"]
+          %a{:href=>"/area?sitecode=#{s[:sitecode]}"}= s[:sitename]
 
 %section.three.columns.omega
   %aside.stats

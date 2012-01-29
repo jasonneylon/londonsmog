@@ -12,7 +12,8 @@ require 'rexml/document'
 require "sass/plugin/rack"
 
 require 'bigdecimal'
-
+require 'ostruct'
+require 'json'
 
 require File.join(File.dirname(__FILE__), *%w[lib helpers])
 
@@ -58,6 +59,13 @@ get "/" do
 	 	next if x.attributes["sitetype"] == "rural"
 	 	true
 	 end
+
+	sites = sites.map do |x| 
+		{:sitename => x.attributes["sitename"], :sitecode => x.attributes["sitecode"], 
+			:latitude => x.attributes["latitude"], :longitude => x.attributes["longitude"]} 
+	end
+
+
  # 	aqindex = site.elements.first.attributes["aqindex"] 
  # 	aqindex = params["aqindex"] if params["aqindex"]
 	haml :index, :locals => { 
