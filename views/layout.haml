@@ -22,8 +22,7 @@
     %link{:href => "images/apple-touch-icon-114x114.png", :rel => "apple-touch-icon", :sizes => "114x114"}/
     %meta{:content => "IE=edge,chrome=1", "http-equiv" => "X-UA-Compatible"}/
     %meta{:content => "width=device-width; initial-scale=1.0", :name => "viewport"}/
-    %script( type="text/javascript"src="http://maps.google.com/maps?file=api&amp;&v=2&key=AIzaSyBf9pZvZ9Z10sxCgGtCkzS1QD_wDH2hX6k")
-    %script(type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false")
+    %script(type="text/javascript"src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBI7jgmJZulXUsQG8zajVgCcw89R7MP80E&sensor=false")
     :javascript
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-28193339-1']);
@@ -36,8 +35,6 @@
       })();
   %body(onload="initialize()" onunload="GUnload()")
   .container
-    %header.sixteen.columns
-      %h1 London's Invisible Smog
     #main.sixteen.columns.clearfix= yield
     %footer
     %script{:src => "http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"}
