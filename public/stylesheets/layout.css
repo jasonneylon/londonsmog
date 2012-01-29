@@ -186,3 +186,7 @@ img.alignleft { padding: 4px; margin: 0 7px 2px 0; display: inline; }
 	    font-weight: normal;
 	    font-style: normal; }
 */
+
+aside section {
+  margin: 0px 12px 12px 12px;
+}

@@ -52,13 +52,21 @@
         %li
           %a{:href=>"/area?sitecode=#{s[:sitecode]}"}= s[:sitename]
 
-%aside.stats.three.columns.omega
-  %section
-    %h3 Air pollution levels
-    %table(style="border-collapse: collapse;")
-      - aqlevels.each do |level, desc|
-        %tr
-          %td{:class => "legend#{level}", :style=>"padding-bottom: 10px"} &nbsp;
-          %td(style="padding-left: 10px; ")
-            = level + " - " + desc
+%div.three.columns.omega
+  %aside.stats
+    %section
+      %h3 Smog then
+      %img(style="width: 120px; height: 120px" src="/images/1950s.png")
+      %h3 Smog now
+      %img(style="width: 120px; height: 120px" src="http://www.eastlondonadvertiser.co.uk/polopoly_fs/smog_over_london_1_873935!image/3188945018.jpg_gen/derivatives/landscape_490/3188945018.jpg")
+
+  %aside.stats
+    %section
+      %h3 Air pollution levels
+      %table(style="border-collapse: collapse;")
+        - aqlevels.each do |level, desc|
+          %tr
+            %td{:class => "legend#{level}", :style=>"padding-bottom: 10px"} &nbsp;
+            %td(style="padding-left: 10px; ")
+              = level + " - " + desc
 
