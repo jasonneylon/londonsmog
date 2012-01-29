@@ -18,6 +18,10 @@
 /* #Site Styles
 ================================================== */
 
+header
+{
+  margin-top 12px;
+}
 
 nav, article
 {
@@ -43,11 +47,6 @@ aside.profile
 }
 
 
-header
-{
-  overflow: hidden;
-  margin-top: 12px;
-}
 
 #main
 {
@@ -67,7 +66,6 @@ h3 {
 
 h1
 {
-  padding: 4px;
   font-size: 56px;
 }
 
@@ -79,13 +77,6 @@ h1 img
   padding-bottom: 12px;
 }
 
-h1 span
-{
-  display: block;
-  padding-top: 20px;
-  padding-left: 10px;
-  vertical-align: middle;
-}
 nav, aside {
   padding: 12px;
   border-radius: 12px;
@@ -103,7 +94,6 @@ nav, aside {
 a, a:visited { color: #62733d; }
 */
 article section {
-  padding: 24px;
 }
 
 nav ul

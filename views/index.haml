@@ -1,16 +1,25 @@
 %article.thirteen.columns.alpha
   %section
-    Unlike the famous smoggy pollution of old foggy London, today pollution is invisible but just as real. This website uses real time data from 
-    %a(href="http://www.londonair.org.uk/LondonAir/Default.aspx") the London Air project
-    and Google street view
-    to help you see the pollution that is present but invisible.
+    %p
+      Unlike the famous smoggy pollution of old foggy London, today pollution is invisible but just as real. This website uses real time data from 
+      %a(href="http://www.londonair.org.uk/LondonAir/Default.aspx") the London Air project
+      and Google street view
+      to help you see the pollution that is present but invisible.
 
     %h2=site.attributes["sitename"]
-
+    %div
+      %div The current air pollution level is: 
+      %div{:class => "level#{aqindex}"}
+      = aqlevels[aqindex] + ". "
+      Find out 
+      how the index is calculated
+      and 
+      the estimated health effects
+      %div(style="clear:both; margin-bottom: 10px")
     #container{:style => "position: relative; width: 700px; height: 600px;"}
       / #pano{:name => "pano", :style => "width: 100%; height: 100%; z:index: 0"}
       %img{:style=>"width: 100%; height: 100%; z:index: 0", :src=>"http://maps.googleapis.com/maps/api/streetview?size=700x600&location=#{site.attributes['latitude']},#{site.attributes['longitude']}&sensor=false"}
-      %iframe.overlay1{:frameborder => "0", :src => "javascript:false;", :style => "position: absolute; width: 700px; height: 600px; z-index: 1; right: 0px; top: 0px;"}
+      %iframe{:class => "overlay#{aqindex}", :frameborder => "0", :src => "javascript:false;", :style => "position: absolute; width: 700px; height: 600px; z-index: 1; right: 0px; top: 0px;"}
       %div{:style => "position: absolute; right: 0px; top: 0px; width: 700px;height: 600px; z-index: 2;"}
 
 %section.three.columns.omega
