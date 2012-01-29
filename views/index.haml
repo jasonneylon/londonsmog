@@ -33,8 +33,8 @@
           }
       }
         
+%h1 London's Invisible Smog
 %article.thirteen.columns.alpha
-  %h1 London's Invisible Smog
   %section
     %p
       Every year over 
@@ -44,15 +44,16 @@
       and Google street view
       to help you see the pollution that is present but invisible.
 
-    #map_canvas(style="width:700px; height:600px")
-
+    #map_canvas(style="width:700px; height:600px; margin-bottom: 12px")
+  %section
+    %h2 List of monitoring stations
     %ul
       - sites.each do |s|
         %li
           %a{:href=>"/area?sitecode=#{s[:sitecode]}"}= s[:sitename]
 
-%section.three.columns.omega
-  %aside.stats
+%aside.stats.three.columns.omega
+  %section
     %h3 Air pollution levels
     %table(style="border-collapse: collapse;")
       - aqlevels.each do |level, desc|

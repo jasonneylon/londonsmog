@@ -1,8 +1,8 @@
 body
 {
-/*  background: url("../images/back.jpg") no-repeat;
-  background-color: #161616;
-*/}
+	 background: url("../images/londonbackground.png") repeat-x;;
+	 background-color: black;
+}
 
 
 #map_canvas

@@ -1,5 +1,5 @@
+%h1 London's Invisible Smog
 %article.thirteen.columns.alpha
-  %h1 London's Invisible Smog
   %section
     %p
       Unlike the famous smoggy pollution of old foggy London, today pollution is invisible but just as real. This website uses real time data from 
@@ -27,49 +27,11 @@
       %iframe{:class => "overlay#{aqindex}", :frameborder => "0", :src => "javascript:false;", :style => "position: absolute; width: 700px; height: 600px; z-index: 1; right: 0px; top: 0px;"}
       %div{:style => "position: absolute; right: 0px; top: 0px; width: 700px;height: 600px; z-index: 2;"}
 
-%section.three.columns.omega
-  %aside.stats
-    %h3 Air pollution levels
-    %table(style="border-collapse: collapse;")
-      - aqlevels.each do |level, desc|
-        %tr
-          %td{:class => "legend#{level}", :style=>"padding-bottom: 10px"} &nbsp;
-          %td(style="padding-left: 10px; ")
-            %a{:href=>"?aqindex=#{level}&sitecode=#{params['sitecode']}"}= level + " - " + desc
-
-/ - content_for :javascript do
-/   :javascript
-/     function initialize() {
-/       var myPano = new GStreetviewPanorama(document.getElementById("pano"));
-/       fenwayPark = new GLatLng(#{site.attributes['latitude']},#{site.attributes['longitude']});
-/       myPOV = {yaw:0,pitch:0};
-/       myPano.setLocationAndPOV(fenwayPark, myPOV);
-/     }
-
-/     /* 
-/     function initialize() {
-/       var draggable = true;
-/       if(navigator.userAgent.match(/iPhone/i)){
-/         draggable = false;
-/       }
-/       var myOptions = {
-/         scrollwheel: false,
-/         draggable: draggable,
-/         zoom: 13,
-/         mapTypeId: google.maps.MapTypeId.HYBRID
-/       };
-/       var map = new google.maps.Map(document.getElementById("map_canvas"),
-/           myOptions);
-/           var geoLayer = new google.maps.KmlLayer('http://saxon-switzerland.heroku.com/geo-data/test.kmz');
-/           geoLayer.setMap(map);
-/     }
-  
-/     google.maps.event.addDomListener(window, 'load', initialize);
-  
-/     (function(window, $, PhotoSwipe){
-/       $(document).ready(function(){
-/         var options = {};
-/         $("#Gallery a").photoSwipe(options);
-/       });
-/     }(window, window.jQuery, window.Code.PhotoSwipe));
-/     */
+%aside.stats.three.columns.omega
+  %h3 Air pollution levels
+  %table(style="border-collapse: collapse;")
+    - aqlevels.each do |level, desc|
+      %tr
+        %td{:class => "legend#{level}", :style=>"padding-bottom: 10px"} &nbsp;
+        %td(style="padding-left: 10px; ")
+          %a{:href=>"?aqindex=#{level}&sitecode=#{params['sitecode']}"}= level + " - " + desc

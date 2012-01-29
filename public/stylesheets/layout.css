@@ -21,13 +21,12 @@
 
 nav, article
 {
-  /*background-color: #E4EAF2;*/
+  background-color: white;
 }
 
 aside.stats 
 {
-  /*background-color: #80BDF2;*/
-  /*border: 2px solid #80B2F2;*/
+  background-color: white;  
 }
 
 
@@ -42,12 +41,20 @@ aside.profile
  font-weight: bold;
 }
 
-
+section
+{
+    margin: 12px;
+}
 
 #main
 {
   -moz-border-radius: 15px;
   border-radius: 15px;
+}
+
+h1 
+{
+  color: white;
 }
 
 h1, h2
@@ -73,14 +80,12 @@ h1 img
   padding-bottom: 12px;
 }
 
-/*nav, aside {
-  padding: 12px;
+nav, aside, article {
   border-radius: 12px;
   -moz-border-radius: 12px;
   -webkit-border-radius: 12px;
-  margin-bottom: 12px;
 }
-*/
+
 
 .container
 {
@@ -106,9 +111,9 @@ body
   /*color: #2C3540;*/
 }
 
-.container header
+.container 
 {
-  margin-top: 12px;
+    margin-top: 170px;
 }
 
 
