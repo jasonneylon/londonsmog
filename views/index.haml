@@ -3,6 +3,7 @@
           var myOptions = {
             center: new google.maps.LatLng(51.48, -0.12),
             zoom: 12,
+            scrollwheel: false,
             mapTypeId: google.maps.MapTypeId.ROADMAP
           };
           var map = new google.maps.Map(document.getElementById("map_canvas"),
@@ -43,7 +44,10 @@
       %a(href="http://www.londonair.org.uk/LondonAir/Default.aspx") the London Air project
       and Google street view
       to help you see the pollution that is present but invisible.
-
+    
+    %div(style="color: #bbea6e; font-size: 20pt; font-weight: bold; padding-bottom: 12px; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;") 
+      Select a monitoring station to visualise the smog 
+      %img(src="/images/down.png")
     #map_canvas(style="width:700px; height:600px; margin-bottom: 12px")
   %section
     %h2 List of monitoring stations

@@ -55,9 +55,10 @@ section
 h1 
 {
   color: white;
+  font-family: 'Creepster', cursive;
 }
 
-h1, h2
+h2
 {
   font-family: garmond;
   /*color: #495939;*/
