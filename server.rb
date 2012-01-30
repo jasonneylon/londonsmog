@@ -49,14 +49,8 @@ get "/" do
 	# sitecode = "MY1"
  	sites = REXML::XPath.each(doc, "//site").find_all do |x| 
 	 	next if x.elements.first.attributes["aqindex"] == "0" or x.attributes["sitename"] =~ /London/ 
-	 	# latitude =  BigDecimal.new(x.attributes["latitude"])
-	 	# longitude = BigDecimal.new(x.attributes["longitude"])
-	 	# next if longitude > 0.15 or longitude < -0.13
-	 	# puts "#{x.attributes["sitename"]}, #{latitude}, #{longitude}"
-	 	puts "#{x.attributes["sitename"]}, #{x.attributes['sitetype']}"
-	 	# next if longitude > 0.25
-	 	# next if longitude < -0.25
-	 	next if x.attributes["sitetype"] == "rural"
+	 	# puts "#{x.attributes["sitename"]}, #{x.attributes['sitetype']}"
+	 	# next if x.attributes["sitetype"] == "rural"
 	 	true
 	 end
 
