@@ -23,19 +23,18 @@
       and 
       %a(href="http://www.londonair.org.uk/london/asp/airpollutionhealth.asp?HealthPage=HealthAdvice") the estimated health effects
       %div(style="clear:both; margin-bottom: 10px")
-    #container{:style => "position: relative; width: 700px; height: 600px;"}
+    #container{:style => "position: relative;"}
       / #pano{:name => "pano", :style => "width: 100%; height: 100%; z:index: 0"}
-      %img{:style=>"width: 100%; height: 100%; z:index: 0", :src=>"http://maps.googleapis.com/maps/api/streetview?size=700x600&location=#{site.attributes['latitude']},#{site.attributes['longitude']}&sensor=false"}
-      %iframe{:class => "overlay#{aqindex}", :frameborder => "0", :src => "javascript:false;", :style => "position: absolute; width: 700px; height: 600px; z-index: 1; right: 0px; top: 0px;"}
-      %div{:style => "position: absolute; right: 0px; top: 0px; width: 700px;height: 600px; z-index: 2;"}
+      %img.street{:style=>" z:index: 0", :src=>"http://maps.googleapis.com/maps/api/streetview?size=540x480&location=#{site.attributes['latitude']},#{site.attributes['longitude']}&sensor=false"}
+      %div.street{:class => "overlay#{aqindex}", :style => "position: absolute; left: 0px; top: 0px; z-index: 2;"}
 
 %div.three.columns.omega
   %aside.stats
     %section
       %h3 Smog then
-      %img(style="width: 120px; height: 120px" src="/images/1950s.png")
+      %img(style="width: 100px; height: 100px" src="/images/1950s.png")
       %h3 Smog now
-      %img(style="width: 120px; height: 120px" src="http://www.eastlondonadvertiser.co.uk/polopoly_fs/smog_over_london_1_873935!image/3188945018.jpg_gen/derivatives/landscape_490/3188945018.jpg")
+      %img(style="width: 100px; height: 100px" src="http://www.eastlondonadvertiser.co.uk/polopoly_fs/smog_over_london_1_873935!image/3188945018.jpg_gen/derivatives/landscape_490/3188945018.jpg")
 
   %aside.stats
     %section

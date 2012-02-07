@@ -18,6 +18,17 @@
 /* #Site Styles
 ================================================== */
 
+body
+{
+   background: url("../images/londonbackground.png") repeat-x;;
+   background-color: black;
+}
+
+.street
+{
+  min-width: 540px;
+  min-height: 480px;
+}
 
 nav, article
 {
