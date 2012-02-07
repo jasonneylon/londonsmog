@@ -1,0 +1,16 @@
+# London's Invisible Smog
+
+A hack that uses real time data from the London Air project and Google street view to help you see the pollution that is present but invisible.
+
+http://londonsmog.heroku.com/
+
+Many thanks to:
+
+- Anya Stang
+- Sarah Goodwin
+- Andrew Berkeley
+- Adam Nieman
+
+## Copyright
+
+Copyright (c) 2012 Jason Neylon. See [LICENSE](https://github.com/jasonneylon/londonsmog/blob/master/LICENSE) for details.
