@@ -26,46 +26,39 @@ configure do
  use Sass::Plugin::Rack
 end
 
+aqlevels = {
+	1 => "Low", 
+	2 => "Low", 
+	3 => "Low", 
+	4 => "Moderate", 
+	5 => "Moderate", 
+	6 => "Moderate", 
+	7 => "High", 
+	8 => "High", 
+	9 => "High", 
+	10 => "Very high", 
+}
+
 
 get "/" do
-	aqlevels = {
-	 "1" => "Low", 
-	 "2" => "Low", 
-	 "3" => "Low", 
-	 "4" => "Moderate", 
-	 "5" => "Moderate", 
-	 "6" => "Moderate", 
-	 "7" => "High", 
-	 "8" => "High", 
-	 "9" => "High", 
-	 "10" => "Very high", 
-	}
 
 	url = "http://www.londonair.org.uk/london/rss/rssLaGroupXml.asp?lagroup=LAQNiPhone"
 
 	xml_data = Net::HTTP.get_response(URI.parse(url)).body
 	# extract event information
 	doc = REXML::Document.new(xml_data)
-	# sitecode = "MY1"
- 	sites = REXML::XPath.each(doc, "//site").find_all do |x| 
-	 	next if x.elements.first.attributes["aqindex"] == "0" or x.attributes["sitename"] =~ /London/ 
-	 	# puts "#{x.attributes["sitename"]}, #{x.attributes['sitetype']}"
-	 	# next if x.attributes["sitetype"] == "rural"
-	 	true
-	 end
+ 	sites = REXML::XPath.each(doc, "//site")
 
 	sites = sites.map do |x| 
-	 	aqindex = x.elements.first.attributes["aqindex"] 
-
+	 	aqindex = x.elements.map {|species| species.attributes["aqindex"].to_i }.max
+	 	next if aqindex == 0
 		{
 			:sitename => x.attributes["sitename"], :sitecode => x.attributes["sitecode"], 
 			:latitude => x.attributes["latitude"], :longitude => x.attributes["longitude"], :aqindex => aqindex
 		} 
-	end
+	end.compact
 
- # 	aqindex = site.elements.first.attributes["aqindex"] 
- # 	aqindex = params["aqindex"] if params["aqindex"]
-	haml :index, :locals => { 
+ 	haml :index, :locals => { 
 		:title => "London's invisible smog - using Google streetview to see London pollution", 
 		:aqlevels => aqlevels,
 		:sites => sites }
@@ -73,18 +66,6 @@ end
 
 
 get "/area" do
-	aqlevels = {
-	 "1" => "Low", 
-	 "2" => "Low", 
-	 "3" => "Low", 
-	 "4" => "Moderate", 
-	 "5" => "Moderate", 
-	 "6" => "Moderate", 
-	 "7" => "High", 
-	 "8" => "High", 
-	 "9" => "High", 
-	 "10" => "Very high", 
-	}
 
 	url = "http://www.londonair.org.uk/london/rss/rssLaGroupXml.asp?lagroup=LAQNiPhone"
 
@@ -94,8 +75,8 @@ get "/area" do
 	doc = REXML::Document.new(xml_data)
 	sitecode = params[:sitecode] || "MY1"
  	site = REXML::XPath.first(doc, "//site[@sitecode='#{sitecode}']")
- 	aqindex = site.elements.first.attributes["aqindex"] 
- 	aqindex = params["aqindex"] if params["aqindex"]
+	aqindex = site.elements.map {|species| species.attributes["aqindex"].to_i }.max
+ 	aqindex = params["aqindex"].to_i if params["aqindex"]
 	haml :area, :locals => { 
 		:title => "London's invisible smog - using Google streetview to see London pollution", 
 		:site => site, 

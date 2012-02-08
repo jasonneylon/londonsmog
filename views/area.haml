@@ -44,4 +44,4 @@
           %tr
             %td{:class => "legend#{level}", :style=>"padding-bottom: 10px"} &nbsp;
             %td(style="padding-left: 10px; ")
-              %a{:href=>"?aqindex=#{level}&sitecode=#{params['sitecode']}"}= level + " - " + desc
+              %a{:href=>"?aqindex=#{level}&sitecode=#{params['sitecode']}"}= level.to_s + " - " + desc
